@@ -1,5 +1,9 @@
+body{
+	margin: auto;
+}
 p{
 	color: cornflowerblue;
 	font-family: 'Merriweather', serif;
+	font-size: 24px;
 }
 
